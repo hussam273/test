@@ -53,6 +53,10 @@ li {
   border-left: 5px solid transparent;
   padding-left: 10px;
 }
+.button {
+  font-size: large;
+  color: red;
+}
 
 li.impo {
   color: yellow;
